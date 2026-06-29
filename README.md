@@ -1,5 +1,6 @@
 # AlgoVault-LeetCode-Solutions
 Optimized LeetCode solutions organized by algorithmic patterns, data structures, and difficulty with clean, interview-ready implementations.
+LeetCode Solutions | Data Structures & Algorithms | Optimized Solutions
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
