@@ -8,6 +8,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## Array
 |  |
 | ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -19,6 +20,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -35,4 +37,12 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Math
+|  |
+| ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 <!---LeetCode Topics End-->
