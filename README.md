@@ -16,6 +16,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1765-map-of-highest-peak](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1765-map-of-highest-peak) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -35,6 +36,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0001-two-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Sliding Window
@@ -88,6 +90,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0015-3sum) |
+| [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
