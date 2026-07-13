@@ -136,5 +136,10 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0050-powx-n) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
