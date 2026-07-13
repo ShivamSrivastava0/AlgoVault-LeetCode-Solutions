@@ -70,6 +70,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0050-powx-n) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Counting
@@ -130,4 +131,8 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
