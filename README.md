@@ -25,6 +25,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -126,6 +127,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
