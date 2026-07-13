@@ -13,6 +13,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0015-3sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -25,6 +26,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -35,6 +37,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -92,6 +95,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Breadth-First Search
 |  |
