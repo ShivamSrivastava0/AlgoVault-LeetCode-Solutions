@@ -71,6 +71,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0050-powx-n) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -139,11 +140,13 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Heap (Priority Queue)
 |  |
