@@ -20,6 +20,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0502-ipo](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1260-shift-2d-grid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1765-map-of-highest-peak](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1765-map-of-highest-peak) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -125,6 +126,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1260-shift-2d-grid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1765-map-of-highest-peak) |
 ## Depth-First Search
 |  |
@@ -180,4 +182,8 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
