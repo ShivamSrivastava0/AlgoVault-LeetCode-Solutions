@@ -72,6 +72,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
