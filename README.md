@@ -17,6 +17,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0303-range-sum-query-immutable](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0502-ipo](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -180,10 +181,12 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 ## Hash Function
 |  |
