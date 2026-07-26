@@ -178,6 +178,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0002-add-two-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -185,6 +186,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0024-swap-nodes-in-pairs](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
