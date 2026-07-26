@@ -75,6 +75,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0141-linked-list-cycle](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0002-add-two-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
