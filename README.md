@@ -51,6 +51,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | ------- |
 | [0001-two-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
@@ -71,6 +72,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## String Matching
@@ -172,6 +174,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0141-linked-list-cycle](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
