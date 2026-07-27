@@ -56,6 +56,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0049-group-anagrams](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -81,6 +82,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0141-linked-list-cycle](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -203,6 +205,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0141-linked-list-cycle](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
