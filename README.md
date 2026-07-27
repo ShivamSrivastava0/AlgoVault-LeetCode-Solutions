@@ -87,6 +87,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0392-is-subsequence](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -203,6 +204,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0234-palindrome-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
