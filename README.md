@@ -118,6 +118,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Counting
@@ -153,6 +154,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
