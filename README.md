@@ -11,6 +11,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0001-two-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -75,6 +76,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -144,6 +146,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0502-ipo](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
