@@ -117,6 +117,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0371-sum-of-two-integers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
