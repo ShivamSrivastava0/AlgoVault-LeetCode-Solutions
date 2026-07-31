@@ -26,6 +26,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1260-shift-2d-grid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1314-matrix-block-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -174,6 +175,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1314-matrix-block-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1765-map-of-highest-peak](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1765-map-of-highest-peak) |
 ## Depth-First Search
 |  |
@@ -237,6 +239,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1314-matrix-block-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Design
