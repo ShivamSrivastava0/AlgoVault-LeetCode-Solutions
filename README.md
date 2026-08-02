@@ -24,6 +24,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0560-subarray-sum-equals-k](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0877-stone-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1260-shift-2d-grid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
@@ -121,6 +122,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0273-integer-to-english-words](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -143,6 +145,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -296,4 +299,8 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
