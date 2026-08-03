@@ -118,6 +118,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0002-add-two-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -273,6 +274,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
@@ -303,4 +305,8 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
