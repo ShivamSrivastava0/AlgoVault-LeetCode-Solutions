@@ -180,6 +180,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0100-same-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -202,6 +203,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0100-same-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -242,6 +244,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -301,6 +304,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0102-binary-tree-level-order-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
@@ -311,6 +315,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0102-binary-tree-level-order-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Game Theory
