@@ -130,6 +130,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -326,4 +327,8 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0089-gray-code) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
