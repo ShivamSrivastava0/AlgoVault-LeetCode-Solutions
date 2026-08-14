@@ -57,6 +57,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
@@ -78,11 +79,13 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
