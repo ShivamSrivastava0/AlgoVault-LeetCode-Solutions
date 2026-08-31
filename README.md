@@ -151,6 +151,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -323,6 +324,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Counting Sort
 |  |
 | ------- |
