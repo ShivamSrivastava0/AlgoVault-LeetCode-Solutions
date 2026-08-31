@@ -30,6 +30,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0877-stone-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1260-shift-2d-grid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1268-search-suggestions-system](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1314-matrix-block-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -59,6 +60,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0535-encode-and-decode-tinyurl](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
+| [1268-search-suggestions-system](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -180,6 +182,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1268-search-suggestions-system](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 ## Greedy
 |  |
 | ------- |
@@ -196,6 +199,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0049-group-anagrams](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0502-ipo](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1268-search-suggestions-system](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -289,6 +293,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0502-ipo](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0502-ipo) |
+| [1268-search-suggestions-system](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Number Theory
 |  |
@@ -371,4 +376,8 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
