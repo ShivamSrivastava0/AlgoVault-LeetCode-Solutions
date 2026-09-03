@@ -21,6 +21,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0495-teemo-attacking](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0502-ipo](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -330,6 +331,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3360-stone-removal-game) |
