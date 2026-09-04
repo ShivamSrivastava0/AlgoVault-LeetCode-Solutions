@@ -49,6 +49,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [3731-find-missing-elements](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -315,6 +316,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [1314-matrix-block-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3903-smallest-stable-index-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Design
 |  |
 | ------- |
