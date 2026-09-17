@@ -25,6 +25,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0502-ipo](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -86,6 +87,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0383-ransom-note](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
