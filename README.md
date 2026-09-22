@@ -52,6 +52,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## String
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [3483-unique-3-digit-even-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Sliding Window
 |  |
 | ------- |
