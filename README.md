@@ -55,6 +55,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [3876-construct-uniform-parity-array-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,6 +229,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -318,6 +322,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0502-ipo](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Number Theory
 |  |
 | ------- |
@@ -357,6 +362,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting Sort
 |  |
 | ------- |
@@ -412,4 +418,8 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
