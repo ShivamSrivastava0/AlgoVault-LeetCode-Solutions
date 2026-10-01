@@ -422,4 +422,8 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
