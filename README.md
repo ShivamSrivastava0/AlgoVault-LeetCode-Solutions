@@ -44,6 +44,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2974-minimum-number-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -224,6 +225,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [1268-search-suggestions-system](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -322,6 +324,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0502-ipo](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Number Theory
 |  |
@@ -359,6 +362,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | ------- |
 | [0495-teemo-attacking](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [2974-minimum-number-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
