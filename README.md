@@ -62,6 +62,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -193,6 +194,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -276,6 +278,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0143-reorder-list) |
@@ -430,4 +433,5 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
