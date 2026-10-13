@@ -51,6 +51,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -218,6 +219,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Breadth-First Search
