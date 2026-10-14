@@ -251,6 +251,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1765-map-of-highest-peak](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1765-map-of-highest-peak) |
+| [2685-count-the-number-of-complete-components](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -274,11 +275,13 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [2685-count-the-number-of-complete-components](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [2685-count-the-number-of-complete-components](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Stack
 |  |
 | ------- |
@@ -441,4 +444,8 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0020-valid-parentheses](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
