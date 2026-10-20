@@ -254,6 +254,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1765-map-of-highest-peak](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1765-map-of-highest-peak) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -279,12 +280,14 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Stack
@@ -452,5 +455,6 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
