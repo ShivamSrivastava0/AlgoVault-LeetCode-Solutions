@@ -1,45 +1,45 @@
 class Solution {
 public:
-    void bfs(vector<vector<char>>& grid, int i, int j, set<pair<int, int>>& vis, vector<vector<int>>& directions, int m, int n){
-        queue<pair<int, int>> q;
-        vis.insert({i,j});
+    void bfs(int i, int j, vector<vector<bool>>& vis, vector<vector<char>>& grid){
+        queue<pair<int,int>> q;
+        vis[i][j]=true;
         q.push({i,j});
+        int n =grid.size();
+        int m =grid[0].size();
 
+        int delrow[] = {-1,1, 0, 0};
+        int delcol[] = {0, 0, -1, 1};
         while(!q.empty()){
-            pair<int, int> p = q.front();
+            int row = q.front().first;
+            int col = q.front().second;
             q.pop();
 
-            int s1 = p.first;
-            int s2 = p.second;
-            for(auto dir : directions){
-                int new_i = dir[0] + s1;
-                int new_j = dir[1] + s2;
+            for(int k=0;k<4;k++){            
+                int nrow= row + delrow[k];
+                int ncol = col + delcol[k];
 
-                if(new_i>=0 && new_i<m && new_j>=0 && new_j<n && grid[new_i][new_j]=='1' && vis.find({new_i,new_j})==vis.end()){
-                    q.push({new_i,new_j});
-                    vis.insert({new_i,new_j});
+                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && grid[nrow][ncol]=='1' && !vis[nrow][ncol]){
+                    q.push({nrow,ncol});
+                    vis[nrow][ncol]=true;
                 }
             }
+            }
         }
-    }
-
 
     int numIslands(vector<vector<char>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
+        int n =grid.size();
+        int m =grid[0].size();
+        vector<vector<bool>> vis(n, vector<bool>(m, false));
         int c=0;
-
-        set<pair<int,int>> vis;
-        vector<vector<int>> directions = {{1,0},{-1,0},{0,1},{0,-1}};
-
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j]=='1' && vis.find({i,j}) == vis.end()){
+        
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(!vis[i][j] && grid[i][j]=='1'){
                     c++;
-                    bfs(grid, i, j, vis, directions, m, n);
+                    bfs(i, j, vis, grid);
                 }
             }
         }
-return c;
+   return c;
     }
 };
