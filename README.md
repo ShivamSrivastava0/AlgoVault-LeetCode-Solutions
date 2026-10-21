@@ -31,6 +31,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1260-shift-2d-grid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
@@ -99,6 +100,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0560-subarray-sum-equals-k](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0904-fruit-into-baskets](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -117,6 +119,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
