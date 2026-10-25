@@ -83,6 +83,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -179,6 +180,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2409-count-days-spent-together](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
