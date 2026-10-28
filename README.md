@@ -264,6 +264,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -425,6 +426,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
