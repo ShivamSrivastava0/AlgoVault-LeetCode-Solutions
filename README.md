@@ -271,6 +271,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0637-average-of-levels-in-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0965-univalued-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1609-even-odd-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1609-even-odd-tree) |
@@ -309,6 +310,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0637-average-of-levels-in-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0965-univalued-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -439,6 +441,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1609-even-odd-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1609-even-odd-tree) |
 ## Binary Tree
 |  |
@@ -453,6 +456,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [1609-even-odd-tree](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1609-even-odd-tree) |
 ## Game Theory
 |  |
