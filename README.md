@@ -265,6 +265,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0547-number-of-provinces) |
@@ -304,6 +305,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0130-surrounded-regions](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -500,7 +502,16 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
