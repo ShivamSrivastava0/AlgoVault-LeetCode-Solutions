@@ -22,6 +22,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0200-number-of-islands](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0495-teemo-attacking](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0502-ipo](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -176,6 +177,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0202-happy-number](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
