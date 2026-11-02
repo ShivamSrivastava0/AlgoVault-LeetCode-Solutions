@@ -36,6 +36,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0904-fruit-into-baskets](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0994-rotting-oranges](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
@@ -108,6 +109,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0884-uncommon-words-from-two-sentences](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0997-find-the-town-judge](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -504,6 +506,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | ------- |
 | [0207-course-schedule](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
