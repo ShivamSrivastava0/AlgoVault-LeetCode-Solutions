@@ -52,6 +52,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2974-minimum-number-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -115,6 +116,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -154,6 +156,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [0876-middle-of-the-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String Matching
 |  |
 | ------- |
@@ -253,6 +256,7 @@ Optimized LeetCode solutions organized by algorithmic patterns, data structures,
 | [1331-rank-transform-of-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2974-minimum-number-game](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ShivamSrivastava0/AlgoVault-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
