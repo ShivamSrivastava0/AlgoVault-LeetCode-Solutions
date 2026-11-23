@@ -1,37 +1,38 @@
 class Solution {
 public:
     void bfs(int i, int j, vector<vector<bool>>& vis, vector<vector<char>>& grid){
-        queue<pair<int,int>> q;
-        vis[i][j]=true;
+        queue<pair<int, int>> q;
         q.push({i,j});
-        int n =grid.size();
-        int m =grid[0].size();
+        vis[i][j]=true;
+        int n=grid.size();
+        int m= grid[0].size();
 
-        int delrow[] = {-1,1, 0, 0};
-        int delcol[] = {0, 0, -1, 1};
+        int delrow[] = {-1,1,0,0};
+        int delcol[] = {0,0,-1,1};
         while(!q.empty()){
-            int row = q.front().first;
-            int col = q.front().second;
+            int row=q.front().first;
+            int col=q.front().second;
             q.pop();
 
-            for(int k=0;k<4;k++){            
-                int nrow= row + delrow[k];
-                int ncol = col + delcol[k];
+            for(int k=0;k<4;k++){
+                int nrow=row + delrow[k];
+                int ncol = col+ delcol[k];
 
-                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && grid[nrow][ncol]=='1' && !vis[nrow][ncol]){
+                if(nrow>=0 && nrow<n && ncol<m && ncol>=0 && !vis[nrow][ncol] && grid[nrow][ncol]=='1'){
                     q.push({nrow,ncol});
                     vis[nrow][ncol]=true;
                 }
             }
-            }
         }
+    }
 
     int numIslands(vector<vector<char>>& grid) {
-        int n =grid.size();
-        int m =grid[0].size();
+        int n=grid.size();
+        int m= grid[0].size();
+
         vector<vector<bool>> vis(n, vector<bool>(m, false));
         int c=0;
-        
+
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(!vis[i][j] && grid[i][j]=='1'){
@@ -39,7 +40,7 @@ public:
                     bfs(i, j, vis, grid);
                 }
             }
-        }
-   return c;
+        }        
+    return c;
     }
 };
